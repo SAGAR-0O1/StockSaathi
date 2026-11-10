@@ -1,0 +1,6 @@
+{
+  "name": "StockSaathi",
+  "description": "Senior AI Inventory & Business Intelligence Assistant for store owners with verified transactions, stock monitoring, and accurate financial analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
