@@ -359,15 +359,15 @@ Create a folder named `screenshots` in the root directory of the repository and 
 
 | Dashboard | Inventory |
 |---|---|
-| ![Dashboard](screenshots/dashboard.png) | ![Inventory](screenshots/inventory.png) |
+| ![Dashboard](dashboard.png) | ![Inventory](inventory.png) |
 
 | Sales & Billing | Purchase |
 |---|---|
-| ![Sales and Billing](screenshots/sales-billing.png) | ![Purchase](screenshots/purchase.png) |
+| ![Sales and Billing](Sales & Billing.png) | ![Purchase](screenshots/purchase.png) |
 
 | AI Assistant | Reports |
 |---|---|
-| ![AI Assistant](screenshots/ai-assistant.png) | ![Reports](screenshots/reports.png) |
+| ![AI Assistant](AI Assistant.png) | ![Reports](reports.png) |
 
 ---
 
